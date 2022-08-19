@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("ddadad");
         System.out.println("hello hot-dix");
         System.out.println("push test");
+        System.out.println("pULL更新了");
     }
 }
